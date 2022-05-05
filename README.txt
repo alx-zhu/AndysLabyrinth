@@ -1,5 +1,5 @@
 How to Play Andy's Labyrinth:
-Video: https://www.youtube.com/watch?v=XXaXwiIuxhk
+Video: https://www.youtube.com/watch?v=XXaXwiIuxhk (Code has been updated since this version)
 
 Code written in files EXCLUDING cmu_112_graphics.py were written by Alex Zhu.
 
